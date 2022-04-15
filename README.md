@@ -49,7 +49,7 @@ I am a mom with a full-time job, and a developer, still in development 😄.
 
 ### ⏲️ Latest Project :
 
-<img src="assets/images/calculator.png" width="320" align="center"/>
+<img src="assets/images/calculator.png" width="400"/>
 
 Simple on-screen calculator using JavaScript, HTML, and CSS. Built for [The Odin Project](https://www.theodinproject.com).
 
