@@ -1,19 +1,20 @@
 <div id="header" align="center">
-  <img src="assets/images/main.png" width="320"/>
-<div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-lightgray?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/jelena_jo_">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+    <img src="assets/images/main.png" width="320" />
+    <div id="badges">
+        <a href="your-linkedin-URL">
+            <img src="https://img.shields.io/badge/LinkedIn-lightgray?style=for-the-badge&logo=linkedin&logoColor=white"
+                alt="LinkedIn Badge" />
+        </a>
+        <a href="https://twitter.com/jelena_jo_">
+            <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"
+                alt="Twitter Badge" />
+        </a>
+    </div>
+    <h1>
+        Hello, World!
+        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
+    </h1>
 </div>
- 
-<h1>
-  Hello, World!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-   </div>
 
 ### :woman_technologist: About Me :
 
