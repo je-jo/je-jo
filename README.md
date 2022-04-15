@@ -60,7 +60,8 @@ Simple on-screen calculator using JavaScript, HTML, and CSS. Built for [The Odin
 
 ### 👌 Credits :
 
-This README was built following [these instructions](https://www.sitepoint.com/github-profile-readme/). Thank you [itsZed0](https://github.com/itsZed0)!
+- This README was built following [these instructions](https://www.sitepoint.com/github-profile-readme/). Thank you [itsZed0](https://github.com/itsZed0)!
+- Cover Photo by [Alexander Sinn](https://unsplash.com/photos/KgLtFCgfC28?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink), recolored by me.
 
 ---
 
