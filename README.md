@@ -52,7 +52,11 @@ I am a mom with a full-time job, and a developer, still in development 😄.
 
 ### ⏲️ Latest Project :
 
-<img src="assets/images/fee-calculator.png" width="400" align="center"/>
+
+
+<p align="center">
+  <img src="assets/images/fee-calculator.png" width="400"/>
+</p>
 
 A web app to calculate early cancellation fees for a broadband where I work. Can be easily edited with your own data!
 
