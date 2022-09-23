@@ -42,7 +42,9 @@ I am a mom with a full-time job, and a developer, still in development 😄.
 
 ### ⭐ Milestones :
 
-- 🆕 Finished [The Odin Project](https://www.theodinproject.com/) Foundations Path!
+- 🆕 Made an actual web app that is used by my team in the real world. :) It's an [early cancellation fee calculator](https://github.com/je-jo/early-cancellation-fee-calculator). Please check it out.
+
+- Finished [The Odin Project](https://www.theodinproject.com/) Foundations Path!
 
 - Got [freeCodeCamp](https://www.freecodecamp.org/) Responsive Web Design Certification.
 
@@ -50,12 +52,12 @@ I am a mom with a full-time job, and a developer, still in development 😄.
 
 ### ⏲️ Latest Project :
 
-<img src="assets/images/calculator.png" width="400"/>
+<img src="assets/images/fee-calculator.png" width="400"/>
 
-Simple on-screen calculator using JavaScript, HTML, and CSS. Built for [The Odin Project](https://www.theodinproject.com).
+A web app to calculate early cancellation fees for a broadband where I work. Can be easily edited with your own data!
 
-- [Repo](https://github.com/je-jo/calculator)
-- [Live](https://je-jo.github.io/calculator/)
+- [Repo](https://github.com/je-jo/early-cancellation-fee-calculator)
+- [Live](https://je-jo.github.io/early-cancellation-fee-calculator/)
 
 ---
 
