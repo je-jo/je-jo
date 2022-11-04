@@ -56,17 +56,12 @@ I am a frontend developer, still in development 😄.
 
 ### ⏲️ Latest Project :
 
-<<<<<<< HEAD
-
 
 <p align="center">
-  <img src="assets/images/fee-calculator.png" width="400"/>
+  <img src="assets/images/sunnyside-agency-landing-page.png" width="360"/>
 </p>
-=======
-<img src="assets/images/sunnyside-agency-lading-page.png" width="360" align="center"/>
->>>>>>> 65f1571 (update info)
 
-A beautifully designed landing page by Frontend Mentor. Responsive and accesible page with working mobile menu. Built with progressive enhancement in mind, so the page is fully functional without JavaScript.
+A beautifully designed landing page by Frontend Mentor. Responsive and accesible page with working mobile menu. Built with progressive enhancement in mind, so everything is fully functional without JavaScript.
 
 - [Repo](https://github.com/je-jo/sunnyside-agency-landing-page)
 - [Live](https://je-jo.github.io/sunnyside-agency-landing-page/)
