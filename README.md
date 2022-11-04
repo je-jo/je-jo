@@ -1,8 +1,8 @@
 <div id="header" align="center">
     <img src="assets/images/main.png" width="320" />
     <div id="badges">
-        <a href="your-linkedin-URL">
-            <img src="https://img.shields.io/badge/LinkedIn-lightgray?style=for-the-badge&logo=linkedin&logoColor=white"
+        <a href="https://www.linkedin.com/in/jelena-jovicic/">
+            <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
                 alt="LinkedIn Badge" />
         </a>
         <a href="https://twitter.com/jelena_jo_">
@@ -18,13 +18,13 @@
 
 ### :woman_technologist: About Me :
 
-I am a mom with a full-time job, and a developer, still in development 😄.
+I am a frontend developer, still in development 😄.
 
-- 💼 Currently working as administrative worker, not yet actively looking for a new job.
+- 💼 Looking for an internship or junior role.
 
-- :book: Learning Javascript.
+- :book: Learning SASS and React.
 
-- 🚀 Next goal: Finish [freeCodeCamp](https://www.freecodecamp.org/) JavaScript Algorithms and Data Structures Certification!
+- 🚀 Next goal: Finish [freeCodeCamp](https://www.freecodecamp.org/) Front End Development Libraries Certification!
 
 ---
 
@@ -42,26 +42,34 @@ I am a mom with a full-time job, and a developer, still in development 😄.
 
 ### ⭐ Milestones :
 
-- 🆕 Made an actual web app that is used by my team in the real world. :) It's an [early cancellation fee calculator](https://github.com/je-jo/early-cancellation-fee-calculator). Please check it out.
+- 🆕 Finished [devChallenges](https://devchallenges.io/) Responsive Web Developer Path. [See Certificate](https://devchallenges.io/certificates/GuC8XEGdmgKKTSHPfuoQ)!
+
+- Got [freeCodeCamp](https://www.freecodecamp.org/) JavaScript Algorithms and Data Structures Certification! [See Certification](https://www.freecodecamp.org/certification/je-jo/javascript-algorithms-and-data-structures)!
+
+- Made an actual web app that is used by my team in the real world. :) It's an [early cancellation fee calculator](https://github.com/je-jo/early-cancellation-fee-calculator). Please check it out.
 
 - Finished [The Odin Project](https://www.theodinproject.com/) Foundations Path!
 
-- Got [freeCodeCamp](https://www.freecodecamp.org/) Responsive Web Design Certification.
+- Got [freeCodeCamp](https://www.freecodecamp.org/) Responsive Web Design Certification. [See Certification](https://www.freecodecamp.org/certification/je-jo/responsive-web-design)!
 
 --- 
 
 ### ⏲️ Latest Project :
 
+<<<<<<< HEAD
 
 
 <p align="center">
   <img src="assets/images/fee-calculator.png" width="400"/>
 </p>
+=======
+<img src="assets/images/sunnyside-agency-lading-page.png" width="360" align="center"/>
+>>>>>>> 65f1571 (update info)
 
-A web app to calculate early cancellation fees for a broadband where I work. Can be easily edited with your own data!
+A beautifully designed landing page by Frontend Mentor. Responsive and accesible page with working mobile menu. Built with progressive enhancement in mind, so the page is fully functional without JavaScript.
 
-- [Repo](https://github.com/je-jo/early-cancellation-fee-calculator)
-- [Live](https://je-jo.github.io/early-cancellation-fee-calculator/)
+- [Repo](https://github.com/je-jo/sunnyside-agency-landing-page)
+- [Live](https://je-jo.github.io/sunnyside-agency-landing-page/)
 
 ---
 
