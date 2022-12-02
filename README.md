@@ -18,11 +18,11 @@
 
 ### :woman_technologist: About Me :
 
-I am a frontend developer, still in development 😄.
+I am a front-end developer enjoying learning new technologies and following best practices in building accessible, responsive and interactive websites 😄. 
 
-- 💼 Looking for an internship or junior role.
+- 💼 Open to a junior role or a freelance gig.
 
-- :book: Learning SASS and React.
+- :book: Learning React.
 
 - 🚀 Next goal: Finish [freeCodeCamp](https://www.freecodecamp.org/) Front End Development Libraries Certification!
 
@@ -34,6 +34,8 @@ I am a frontend developer, still in development 😄.
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
@@ -58,13 +60,13 @@ I am a frontend developer, still in development 😄.
 
 
 <p align="center">
-  <img src="assets/images/sunnyside-agency-landing-page.png" width="360"/>
+  <img src="assets/images/business-card.png" width="360"/>
 </p>
 
-A beautifully designed landing page by Frontend Mentor. Responsive and accesible page with working mobile menu. Built with progressive enhancement in mind, so everything is fully functional without JavaScript.
+A conversion of an Adobe XD design to HTML, built with Sass, with a Lighthouse score of 100.
 
-- [Repo](https://github.com/je-jo/sunnyside-agency-landing-page)
-- [Live](https://je-jo.github.io/sunnyside-agency-landing-page/)
+- [Repo](https://github.com/je-jo/business-card-project)
+- [Live](https://je-jo.github.io/business-card-project/)
 
 ---
 
