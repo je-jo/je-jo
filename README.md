@@ -20,7 +20,7 @@
 
 I am a front-end developer enjoying learning new technologies and following best practices in building accessible, responsive and interactive websites 😄. 
 
-- 💼 Open to a junior role or a freelance gig.
+- 💼 Open to a junior role or freelance gigs.
 
 - :book: Learning React.
 
@@ -60,13 +60,13 @@ I am a front-end developer enjoying learning new technologies and following best
 
 
 <p align="center">
-  <img src="assets/images/business-card.png" width="360"/>
+  <img src="assets/images/insure-landing-page.png" width="360"/>
 </p>
 
-A conversion of an Adobe XD design to HTML, built with Sass, with a Lighthouse score of 100.
+A responsive landing page for a fictional insurance company, built to design with customized and optimized Bootstrap 5, and with a PageSpeed Insights score of 100!
 
-- [Repo](https://github.com/je-jo/business-card-project)
-- [Live](https://je-jo.github.io/business-card-project/)
+- [Repo](https://github.com/je-jo/insure-landing-page)
+- [Live](https://je-jo.github.io/insure-landing-page/)
 
 ---
 
