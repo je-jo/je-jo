@@ -60,13 +60,13 @@ I am a front-end developer enjoying learning new technologies and following best
 
 
 <p align="center">
-  <img src="assets/images/insure-landing-page.png" width="360"/>
+  <img src="assets/images/library.png" width="360"/>
 </p>
 
-A responsive landing page for a fictional insurance company, built to design with customized and optimized Bootstrap 5, and with a PageSpeed Insights score of 100!
+A small borrowed books tracking app. It's main purpose is to keep track of dates when books are due to be returned. User can add, edit and delete book records, and track the read and returned status. The app uses local storage, so the book records are stored between sessions.
 
-- [Repo](https://github.com/je-jo/insure-landing-page)
-- [Live](https://je-jo.github.io/insure-landing-page/)
+- [Repo](https://github.com/je-jo/library)
+- [Live](https://je-jo.github.io/library/)
 
 ---
 
