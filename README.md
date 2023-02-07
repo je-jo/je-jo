@@ -63,7 +63,7 @@ I am a front-end developer enjoying learning new technologies and following best
   <img src="assets/images/library.png" width="360"/>
 </p>
 
-A small borrowed books tracking app. It's main purpose is to keep track of dates when books are due to be returned. User can add, edit and delete book records, and track the read and returned status. The app uses local storage, so the book records are stored between sessions.
+A small borrowed books tracking app. Its' main purpose is to keep track of dates when books are due to be returned. User can add, edit and delete book records, and track the read and returned status. The app uses local storage, so the book records are stored between sessions.
 
 - [Repo](https://github.com/je-jo/library)
 - [Live](https://je-jo.github.io/library/)
