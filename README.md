@@ -60,13 +60,13 @@ I am a front-end developer enjoying learning new technologies and following best
 
 
 <p align="center">
-  <img src="assets/images/library.png" width="360"/>
+  <img src="assets/images/tic-tac-toe.png" width="360"/>
 </p>
 
-A small borrowed books tracking app. Its' main purpose is to keep track of dates when books are due to be returned. User can add, edit and delete book records, and track the read and returned status. The app uses local storage, so the book records are stored between sessions.
+A Tic Tac Toe game you can play in your browser. Features two game modes - play against another human or random AI. 
 
-- [Repo](https://github.com/je-jo/library)
-- [Live](https://je-jo.github.io/library/)
+- [Repo](https://github.com/je-jo/tic-tac-toe)
+- [Live](https://je-jo.github.io/tic-tac-toe/)
 
 ---
 
