@@ -22,7 +22,7 @@ I am a front-end developer enjoying learning new technologies and following best
 
 - 💼 Open to a junior role or freelance gigs.
 
-- :book: Learning React.
+- :book: Currently following [Turing School](https://turing.edu/) Lesson Plan.
 
 - 🚀 Next goal: Finish [freeCodeCamp](https://www.freecodecamp.org/) Front End Development Libraries Certification!
 
@@ -36,6 +36,7 @@ I am a front-end developer enjoying learning new technologies and following best
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+    <img src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
@@ -44,7 +45,7 @@ I am a front-end developer enjoying learning new technologies and following best
 
 ### ⭐ Milestones :
 
-- 🆕 Finished [devChallenges](https://devchallenges.io/) Responsive Web Developer Path. [See Certificate](https://devchallenges.io/certificates/GuC8XEGdmgKKTSHPfuoQ)!
+- Finished [devChallenges](https://devchallenges.io/) Responsive Web Developer Path. [See Certificate](https://devchallenges.io/certificates/GuC8XEGdmgKKTSHPfuoQ)!
 
 - Got [freeCodeCamp](https://www.freecodecamp.org/) JavaScript Algorithms and Data Structures Certification! [See Certification](https://www.freecodecamp.org/certification/je-jo/javascript-algorithms-and-data-structures)!
 
@@ -60,13 +61,13 @@ I am a front-end developer enjoying learning new technologies and following best
 
 
 <p align="center">
-  <img src="assets/images/tic-tac-toe.png" width="360"/>
+  <img src="assets/images/bolt-tailwind.png" width="360"/>
 </p>
 
-A Tic Tac Toe game you can play in your browser. Features two game modes - play against another human or random AI. 
+A responsive multi-page website, built with Progressive Enhancement in mind. There's a [CSS/Sass](https://github.com/je-jo/taraba-test-je-jo) version built for an internship application, and this a Tailwind CSS Version, built for fun. :)
 
-- [Repo](https://github.com/je-jo/tic-tac-toe)
-- [Live](https://je-jo.github.io/tic-tac-toe/)
+- [Repo](https://github.com/je-jo/taraba-test-tailwind-je-jo)
+- [Live](https://taraba-test-tailwind-je-jo.netlify.app/)
 
 ---
 
