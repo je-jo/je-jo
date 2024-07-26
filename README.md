@@ -18,7 +18,7 @@
 
 ### :woman_technologist: About Me :
 
-I am a front-end developer enjoying learning new technologies and following best practices in building accessible, responsive and interactive websites 😄. 
+I am a front-end developer enjoying learning new technologies and following best practices in building accessible, responsive and interactive websites 😄.
 
 - 💼 Open to a junior role or freelance gigs.
 
@@ -31,17 +31,18 @@ I am a front-end developer enjoying learning new technologies and following best
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-    <img src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://devicon-website.vercel.app/api/html5/original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://devicon-website.vercel.app/api/css3/original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://devicon-website.vercel.app/api/javascript/original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://devicon-website.vercel.app/api/sass/original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
+  <img src="https://devicon-website.vercel.app/api/bootstrap/original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
+  <img src="https://devicon-website.vercel.app/api/vscode/original.svg" title="Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
+  <img src="https://devicon-website.vercel.app/api/git/original.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://devicon-website.vercel.app/api/webpack/original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
 </div>
 
---- 
+---
 
 ### ⭐ Milestones :
 
@@ -55,19 +56,18 @@ I am a front-end developer enjoying learning new technologies and following best
 
 - Got [freeCodeCamp](https://www.freecodecamp.org/) Responsive Web Design Certification. [See Certification](https://www.freecodecamp.org/certification/je-jo/responsive-web-design)!
 
---- 
+---
 
 ### ⏲️ Latest Project :
 
-
 <p align="center">
-  <img src="assets/images/bolt-tailwind.png" width="360"/>
+  <img src="assets/cookin.gif" width="360"/>
 </p>
 
-A responsive multi-page website, built with Progressive Enhancement in mind. There's a [CSS/Sass](https://github.com/je-jo/taraba-test-je-jo) version built for an internship application, and this a Tailwind CSS Version, built for fun. :)
+A recipe tracking / meal planning application, utilizing webpack and fetch API.
 
-- [Repo](https://github.com/je-jo/taraba-test-tailwind-je-jo)
-- [Live](https://taraba-test-tailwind-je-jo.netlify.app/)
+- [Repo](https://github.com/je-jo/turing-whats-cookin)
+- [Live](https://je-jo.github.io/turing-whats-cookin/)
 
 ---
 
